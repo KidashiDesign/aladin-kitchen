@@ -280,7 +280,7 @@ section { position: relative; }
    ═════════════════════════════════════════════════════════════════════ */
 .nav {
   position: fixed; inset: 0 0 auto 0; z-index: 60;
-  padding-top: 40px; padding-bottom: 50px;
+  padding-top: 0; padding-bottom: 10px;
   display: flex; align-items: center;
   background: transparent; border-bottom: 1px solid transparent;
   transition: background-color var(--dur-mid) var(--ease-soft),
