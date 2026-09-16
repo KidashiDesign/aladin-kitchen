@@ -46,7 +46,7 @@ const ui = {
     hero: {
       kicker: 'Persian kitchen, old town Tbilisi · since 2015',
       tagline: 'One thousand and one flavours.',
-      sub: 'Charcoal kebab, khoresht simmered since morning, rice with a golden crust — a few steps off Shavteli Street, at the heart of the old town.',
+      sub: 'Charcoal-grilled kebab, khoresht simmered since dawn, rice crowned with a golden crust — the tastes of Persia, just steps from Shavteli Street in the heart of Tbilisi\'s old town.',
       ctaMenu: 'Explore the menu', ctaReserve: 'Reserve a table',
       fact1: 'Shavteli St. 5', fact2: 'Open daily 11–23', fact3: 'Halal · family-run'
     },
@@ -261,7 +261,7 @@ const ui = {
     hero: {
       kicker: 'آشپزی ایرانی، بافت قدیم تفلیس · از ۲۰۱۵',
       tagline: 'هزار و یک طعم.',
-      sub: 'کباب روی زغال، خورشی که از صبح روی شعله است، برنجی با ته‌دیگ طلایی — چند قدم آن‌طرف‌تر از خیابان شاوتلی، در دل بافت قدیم.',
+      sub: 'کباب روی زغال، خورشی که از سپیده‌دم روی شعله است، برنجی با ته‌دیگ طلایی — طعم‌های ایران، چند قدم آن‌طرف‌تر از خیابان شاوتلی، در دل بافت قدیم تفلیس.',
       ctaMenu: 'دیدن منو', ctaReserve: 'رزرو میز',
       fact1: 'خیابان شاوتلی ۵', fact2: 'هر روز ۱۱ تا ۲۳', fact3: 'حلال · خانوادگی'
     },
@@ -475,7 +475,7 @@ const ui = {
     hero: {
       kicker: 'Персидская кухня, старый Тбилиси · с 2015 года',
       tagline: 'Тысяча и один вкус.',
-      sub: 'Кебаб на углях, хорешт, томлёный с утра, рис с золотой корочкой — в двух шагах от улицы Шавтели, в самом сердце старого города.',
+      sub: 'Кебаб на углях, хорешт, томлёный с самого рассвета, рис с золотой корочкой — вкус Персии в двух шагах от улицы Шавтели, в самом сердце старого Тбилиси.',
       ctaMenu: 'Смотреть меню', ctaReserve: 'Забронировать стол',
       fact1: 'Шавтели 5', fact2: 'Ежедневно 11–23', fact3: 'Халяль · семейное дело'
     },
@@ -689,7 +689,7 @@ const ui = {
     hero: {
       kicker: 'სპარსული სამზარეულო, ძველი თბილისი · 2015 წლიდან',
       tagline: 'ათას ერთი გემო.',
-      sub: 'ნახშირზე შემწვარი ქაბაბი, დილიდან ცეცხლზე მდგარი ხორეშთი, ბრინჯი ოქროსფერი ქერქით — შავთელის ქუჩიდან ორიოდე ნაბიჯზე, ძველი ქალაქის გულში.',
+      sub: 'ნახშირზე შემწვარი ქაბაბი, განთიადიდან ცეცხლზე მდგარი ხორეშთი, ბრინჯი ოქროსფერი ქერქით — სპარსეთის გემო შავთელის ქუჩიდან ორიოდე ნაბიჯზე, ძველი თბილისის გულში.',
       ctaMenu: 'მენიუს ნახვა', ctaReserve: 'მაგიდის დაჯავშნა',
       fact1: 'შავთელის ქუჩა 5', fact2: 'ყოველდღე 11–23', fact3: 'ჰალალი · ოჯახური'
     },
